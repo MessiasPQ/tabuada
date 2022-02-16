@@ -1,0 +1,35 @@
+body {
+  background-color: #665278;
+}
+
+header {
+  text-align: center;
+  color: white;
+  text-shadow: 1px 1px 1px black;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+}
+
+section {
+  background-color: rgb(250, 237, 220);
+  margin: auto;
+  width: 500px;
+  height: 300px;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  box-shadow: 2px 2px 2px black;
+  border-radius: 10px;
+}
+#content {
+  padding: 20px;
+  text-align: center;
+}
+#seltab {
+  margin-left: 180px;
+}
+
+footer {
+  text-align: center;
+  color: white;
+  text-shadow: 1px 1px 1px black;
+  font-size: 20px;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+}
